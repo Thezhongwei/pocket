@@ -25,7 +25,15 @@ Syntax highlighted code block
 
 [Link](url) and ![Image](src)
 ```
-
+```webfont
+fonts.useso.com // 360
+http://fonts.lug.ustc.edu.cn // 中科大
+fonts.css.network // 捷速网络 香港
+http://fonts.geekzu.org // Personal
+http://fonts.gmirror.org // 七牛
+http://www.youziku.com // 有字库
+http://cn.justfont.com // 就是字
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
