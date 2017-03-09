@@ -34,6 +34,13 @@ http://fonts.gmirror.org // 七牛
 http://www.youziku.com // 有字库
 http://cn.justfont.com // 就是字
 ```
+```maven
+        <dependency>
+            <groupId>org.slf4j</groupId>
+            <artifactId>slf4j-log4j12</artifactId>
+            <version>1.7.22</version>
+        </dependency>
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
