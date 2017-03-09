@@ -41,6 +41,11 @@ http://cn.justfont.com // 就是字
             <version>1.7.22</version>
         </dependency>
 ```
+```java
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
+private static final Logger logger = LoggerFactory.getLogger(Abc.class);
+```
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
 ### Jekyll Themes
